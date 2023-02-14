@@ -1,0 +1,11 @@
+{
+  "name": "081-product-management",
+  "version": "1.0.0",
+  "description": "This is a products management system web app by using python and flask in the backend, mysql for the database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
